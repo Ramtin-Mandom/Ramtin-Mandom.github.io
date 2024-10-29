@@ -5,6 +5,10 @@ h1{
     background-color: bisque;
     text-align: center;
 }
+h3{
+    text-align: center;
+    font-size: large;
+}
 .div_Body{
     display:flexbox;
     background-color: powderblue;
@@ -69,4 +73,52 @@ h1{
 .div_Experiences:hover{
     font-size: 30px;
     height: 400px;
+}
+.div_Contact{
+    display: flexbox;
+    background-color: bisque;
+    margin-left: 30%;
+    margin-right: 30%;
+    height: 100px;
+    width: 40%;
+    padding: 10px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 5px 10px #ece1a1;
+    margin-bottom: 50px;
+}
+.div_Contact_Phone{
+    float:left;
+    background-color:lightgreen;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    height: 80%;
+    width: 25%;
+    margin-left: 8%;
+    margin-top: 1%;
+    margin-bottom: 5%;
+}
+.div_Contact_Email{
+    float:left;
+    background-color: lightgreen;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    height: 80%;
+    width: 25%;
+    margin-left: 5%;
+    margin-top: 1%;
+    margin-bottom: 5%;
+}
+.div_Contact_Social{
+    float: left;
+    background-color: lightgreen;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    height: 80%;
+    width: 25%;
+    margin-left: 5%;
+    margin-top: 1%;
+    margin-bottom: 5%;
 }
