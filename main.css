@@ -5,6 +5,10 @@ h1{
     background-color: bisque;
     text-align: center;
 }
+h3{
+    text-align: center;
+    font-size: large;
+}
 .div_Body{
     display:flexbox;
     background-color: powderblue;
