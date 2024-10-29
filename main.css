@@ -5,3 +5,9 @@ h1{
     background-color: bisque;
     text-align: center;
 }
+.div_Body{
+    background-color: powderblue;
+    margin-top: 20px;
+    margin-left: 600px;
+    margin-right: 600px;
+}
