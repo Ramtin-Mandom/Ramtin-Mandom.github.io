@@ -1,3 +1,72 @@
 body {
     background-color: powderblue;
 }
+h1{
+    background-color: bisque;
+    text-align: center;
+}
+.div_Body{
+    display:flexbox;
+    background-color: powderblue;
+    margin-top: 20px;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+.image{
+    float: right;
+    width: 40%;
+    height: 80%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.div_About_Me{
+    background-color: bisque;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    height: 200px;
+    width: 100%;
+    padding: 10px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 5px 10px #ece1a1;
+    margin-bottom: 50px;
+}
+.div_About_Me:hover{
+    font-size: 30px;
+    height: 400px;
+}
+
+.div_Skills{
+    background-color: bisque;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    height: 200px;
+    width: 100%;
+    padding: 10px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 5px 10px #ece1a1;
+    margin-bottom: 50px;
+}
+.div_Skills:hover{
+    font-size: 30px;
+    height: 400px;
+}
+.div_Experiences{
+    background-color: bisque;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    height: 200px;
+    width: 100%;
+    padding: 10px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 5px 10px #ece1a1;
+    margin-bottom: 50px;
+}
+.div_Experiences:hover{
+    font-size: 30px;
+    height: 400px;
+}
