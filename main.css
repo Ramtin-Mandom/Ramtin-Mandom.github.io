@@ -30,16 +30,18 @@ h3{
     color: black;
     font-family: 'Times New Roman', Times, serif;
     font-size: 18px;
-    height: 220px;
+    height: 200px;
     width: 100%;
     padding: 10px;
     border-radius: 4px;
     box-shadow: 2px 2px 5px 10px #ece1a1;
     margin-bottom: 50px;
+    overflow-y: scroll;
 }
 .div_About_Me:hover{
     font-size: 25px;
-    height: 420px;
+    height: 400px;
+    overflow-y: scroll;
 }
 
 .div_Skills{
@@ -47,32 +49,36 @@ h3{
     color: black;
     font-family: 'Times New Roman', Times, serif;
     font-size: 18px;
-    height: 220px;
+    height: 200px;
     width: 100%;
     padding: 10px;
     border-radius: 4px;
     box-shadow: 2px 2px 5px 10px #ece1a1;
     margin-bottom: 50px;
+    overflow-y: scroll;
 }
 .div_Skills:hover{
     font-size: 25px;
     height: 400px;
+    overflow-y: scroll;
 }
 .div_Experiences{
     background-color: bisque;
     color: black;
     font-family: 'Times New Roman', Times, serif;
     font-size: 18px;
-    height: 340px;
+    height: 300px;
     width: 100%;
     padding: 10px;
     border-radius: 4px;
     box-shadow: 2px 2px 5px 10px #ece1a1;
     margin-bottom: 50px;
+    overflow-y: scroll;
 }
 .div_Experiences:hover{
     font-size: 25px;
-    height: 600px;
+    height: 500px;
+    overflow-y: scroll;
 }
 .div_Contact{
     display: flexbox;
