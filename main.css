@@ -1,9 +1,12 @@
 body {
-    background-color: powderblue;
+    background-color: lightcoral;
 }
 h1{
     background-color: bisque;
     text-align: center;
+}
+h2{
+    background-color: rgb(238, 186, 144);
 }
 h3{
     text-align: center;
@@ -11,10 +14,10 @@ h3{
 }
 .div_Body{
     display:flexbox;
-    background-color: powderblue;
+    background-color:brown;
     margin-top: 20px;
-    margin-left: 35%;
-    margin-right: 35%;
+    margin-left: 30%;
+    margin-right: 30%;
 }
 .image{
     float: right;
@@ -31,7 +34,8 @@ h3{
     font-family: 'Times New Roman', Times, serif;
     font-size: 18px;
     height: 200px;
-    width: 100%;
+    width: 80%;
+    margin-left: 8%;
     padding: 10px;
     border-radius: 4px;
     box-shadow: 2px 2px 5px 10px #ece1a1;
@@ -50,7 +54,8 @@ h3{
     font-family: 'Times New Roman', Times, serif;
     font-size: 18px;
     height: 200px;
-    width: 100%;
+    width: 80%;
+    margin-left: 8%;
     padding: 10px;
     border-radius: 4px;
     box-shadow: 2px 2px 5px 10px #ece1a1;
@@ -68,7 +73,8 @@ h3{
     font-family: 'Times New Roman', Times, serif;
     font-size: 18px;
     height: 300px;
-    width: 100%;
+    width: 80%;
+    margin-left: 8%;
     padding: 10px;
     border-radius: 4px;
     box-shadow: 2px 2px 5px 10px #ece1a1;
@@ -94,7 +100,7 @@ h3{
 }
 .div_Contact_Phone{
     float:left;
-    background-color:lightgreen;
+    background-color:brown;
     color: black;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
@@ -106,7 +112,7 @@ h3{
 }
 .div_Contact_Email{
     float:left;
-    background-color: lightgreen;
+    background-color:brown;
     color: black;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
@@ -118,7 +124,7 @@ h3{
 }
 .div_Contact_Social{
     float: left;
-    background-color: lightgreen;
+    background-color: brown;
     color: black;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
